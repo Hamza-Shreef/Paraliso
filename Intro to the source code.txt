@@ -1,0 +1,3 @@
+this source code is copyrighted free and you can play around with it as you like
+one thing to note is that the performance of this piece of software is totally dependant on your 
+machine.
