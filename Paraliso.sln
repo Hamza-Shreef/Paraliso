@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paraliso", "Paraliso\Paraliso.csproj", "{857F49F9-E5F9-4F93-8CC5-5D24C0E20781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchrony", "Asynchrony\Asynchrony.csproj", "{226DC4A0-3D23-4A6D-9410-8C9AAE0C088E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857F49F9-E5F9-4F93-8CC5-5D24C0E20781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857F49F9-E5F9-4F93-8CC5-5D24C0E20781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857F49F9-E5F9-4F93-8CC5-5D24C0E20781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857F49F9-E5F9-4F93-8CC5-5D24C0E20781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226DC4A0-3D23-4A6D-9410-8C9AAE0C088E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226DC4A0-3D23-4A6D-9410-8C9AAE0C088E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226DC4A0-3D23-4A6D-9410-8C9AAE0C088E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226DC4A0-3D23-4A6D-9410-8C9AAE0C088E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A8C05D-1C4D-46F8-A372-2A853D0F16A0}
+	EndGlobalSection
+EndGlobal
